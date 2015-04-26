@@ -194,4 +194,6 @@
   <!-- Long-press back kill application -->
   <java-symbol type="string" name="app_killed_message" />
 
+  <java-symbol type="array" name="config_externalCMServices" />
+
 </resources>
